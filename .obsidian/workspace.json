@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "cf4369ec9f8b12d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "727b41c9571d473b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5195f5df43a78937",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git相关命令/4. Git 与 Github 远程仓库.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f993127af5f461ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0f3d168180b21a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2990986d796bb71",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c97395b63d8b65c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "711190a555b35518",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b42c8ea5079be225",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc3db5ab425216ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "809e281c4b1582be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git相关命令/4. Git 与 Github 远程仓库.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "001e51021387ef0b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "git相关命令/4. Git 与 Github 远程仓库.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dbef4c4a346b7677",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "75a0c8413f7e8cc1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git相关命令/4. Git 与 Github 远程仓库.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "d2990986d796bb71",
+  "lastOpenFiles": [
+    "README.md",
+    "git相关命令/3. 分支.md",
+    "git相关命令/0.1 git常用命令.jpeg",
+    "git相关命令/0. 查看用户相关.md",
+    "git相关命令/4. Git 与 Github 远程仓库.md",
+    "LICENSE",
+    "git相关命令/2. 提交.md",
+    "git相关命令/1. 仓库.md",
+    "Excalidraw/Drawing 2024-08-28 16.00.20.excalidraw.md",
+    "GitHub相关/github特殊的查找资源小技巧.md",
+    "GitHub相关/在GitHub怎么找开源项目.md",
+    "欢迎.md",
+    "新建 文本文档.txt",
+    "git相关命令/img/未命名.canvas",
+    "git相关命令/img/提交.png",
+    "Excalidraw/Drawing 2024-08-28 16.07.29.excalidraw.md",
+    "git相关命令/img",
+    "Excalidraw",
+    "GitHub相关/未命名.md",
+    "git相关命令",
+    "GitHub相关",
+    "创建链接.md"
+  ]
+}
